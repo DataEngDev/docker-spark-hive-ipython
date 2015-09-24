@@ -3,7 +3,7 @@
 
 感謝各位參加Hadoop Conference 2015
 為了方便各位實作，將協助各位使用docker在本機上建立spark教學環境．
-較熟悉Docker的朋友可以直接跳過這段．
+熟悉Docker的朋友可以直接跳過這段．
 
 # Docker安裝教學
 
